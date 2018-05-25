@@ -1,0 +1,144 @@
+第 1 条，共 11 条
+标题: ISAR Imaging of a Ship Target Based on Parameter Estimation of Multicomponent Quadratic Frequency-Modulated Signals
+作者: Bai, X (Bai, Xia); Tao, R (Tao, Ran); Wang, ZJ (Wang, Zhijiao); Wang, Y (Wang, Yue)
+来源出版物: IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING  卷: 52  期: 2  页: 1418-1429  DOI: 10.1109/TGRS.2013.2251348  出版年: FEB 2014  
+Web of Science 核心合集中的 "被引频次": 41
+被引频次合计: 44
+入藏号: WOS:000328941300052
+地址: [Bai, Xia; Tao, Ran; Wang, Zhijiao; Wang, Yue] Beijing Inst Technol, Dept Elect Engn, Beijing 100081, Peoples R China.
+通讯作者地址: Tao, R (通讯作者),Beijing Inst Technol, Dept Elect Engn, Beijing 100081, Peoples R China.
+电子邮件地址: bai@bit.edu.cn; rantao@bit.edu.cn; shouji.wang@163.com; wangyue@bit.edu.cn
+ISSN: 0196-2892
+eISSN: 1558-0644
+第 2 条，共 11 条
+标题: Fractional Weierstrass Model for Rough Ocean Surface and Analytical Derivation of Its Scattered Field in a Closed Form
+作者: Tao, R (Tao, Ran); Li, Y (Li, Yang); Bai, X (Bai, Xia); Waheed, A (Waheed, Abdul)
+来源出版物: IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING  卷: 50  期: 10  页: 3627-3639  DOI: 10.1109/TGRS.2012.2185505  子辑: 1  出版年: OCT 2012  
+Web of Science 核心合集中的 "被引频次": 9
+被引频次合计: 11
+入藏号: WOS:000309361500001
+地址: [Tao, Ran; Li, Yang; Bai, Xia; Waheed, Abdul] Beijing Inst Technol, Sch Informat & Elect, Beijing 100081, Peoples R China.
+通讯作者地址: Tao, R (通讯作者),Beijing Inst Technol, Sch Informat & Elect, Beijing 100081, Peoples R China.
+电子邮件地址: rantao@bit.edu.cn; lyliyang@bit.edu.cn; bai@bit.edu.cn; laserspc_tech@yahoo.com
+ISSN: 0196-2892
+第 3 条，共 11 条
+标题: Compressed sensing SAR imaging based on sparse representation in fractional Fourier domain
+作者: Bu, HX (Bu HongXia); Bai, X (Bai Xia); Tao, R (Tao Ran)
+来源出版物: SCIENCE CHINA-INFORMATION SCIENCES  卷: 55  期: 8  特刊: SI  页: 1789-1800  DOI: 10.1007/s11432-012-4607-6  出版年: AUG 2012  
+Web of Science 核心合集中的 "被引频次": 8
+被引频次合计: 12
+入藏号: WOS:000306597400005
+地址: [Bu HongXia; Bai Xia; Tao Ran] Beijing Inst Technol, Dept Elect Engn, Beijing 100081, Peoples R China.
+[Bu HongXia] Hebei Normal Univ, Coll Phys Sci & Informat, Shijiazhuang 050016, Peoples R China.
+通讯作者地址: Bai, X (通讯作者),Beijing Inst Technol, Dept Elect Engn, Beijing 100081, Peoples R China.
+电子邮件地址: bai@bit.edu.cn
+ISSN: 1674-733X
+eISSN: 1869-1919
+第 4 条，共 11 条
+标题: A Novel SAR Imaging Algorithm Based on Compressed Sensing
+作者: Bu, HX (Bu, Hongxia); Tao, R (Tao, Ran); Bai, X (Bai, Xia); Zhao, J (Zhao, Juan)
+来源出版物: IEEE GEOSCIENCE AND REMOTE SENSING LETTERS  卷: 12  期: 5  页: 1003-1007  DOI: 10.1109/LGRS.2014.2372319  出版年: MAY 2015  
+Web of Science 核心合集中的 "被引频次": 6
+被引频次合计: 12
+入藏号: WOS:000351412200017
+地址: [Bu, Hongxia; Tao, Ran; Bai, Xia; Zhao, Juan] Beijing Inst Technol, Dept Elect Engn, Beijing 100081, Peoples R China.
+[Bu, Hongxia; Tao, Ran; Bai, Xia; Zhao, Juan] Beijing Key Lab Fract Signals & Syst, Beijing 100081, Peoples R China.
+[Bu, Hongxia] Hebei Normal Univ, Coll Phys Sci & Informat Engn, Shijiazhuang 050016, Peoples R China.
+通讯作者地址: Bu, HX (通讯作者),Beijing Inst Technol, Dept Elect Engn, Beijing 100081, Peoples R China.
+电子邮件地址: beckybu@hebtu.edu.cn; rantao@bit.edu.cn; bai@bit.edu.cn; juanzhao@bit.edu.cn
+ISSN: 1545-598X
+eISSN: 1558-0571
+第 5 条，共 11 条
+标题: On the TOPS mode spaceborne SAR
+作者: Bai, X (Bai Xia); Sun, JP (Sun JinPing); Hong, W (Hong Wen); Mao, SY (Mao ShiYi)
+来源出版物: SCIENCE CHINA-INFORMATION SCIENCES  卷: 53  期: 2  页: 367-378  DOI: 10.1007/s11432-010-0030-z  出版年: FEB 10 2010  
+Web of Science 核心合集中的 "被引频次": 6
+被引频次合计: 9
+入藏号: WOS:000276598700015
+地址: [Bai Xia] Beijing Inst Technol, Dept Elect Engn, Beijing 100081, Peoples R China.
+[Hong Wen] Chinese Acad Sci, Inst Elect, Beijing 100190, Peoples R China.
+通讯作者地址: Bai, X (通讯作者),Beijing Inst Technol, Dept Elect Engn, Beijing 100081, Peoples R China.
+电子邮件地址: bai@bit.edu.cn
+ISSN: 1674-733X
+第 6 条，共 11 条
+标题: Regularized smoothed l(0) norm algorithm and its application to CS-based radar imaging
+作者: Bu, HX (Bu, Hongxia); Tao, R (Tao, Ran); Bai, X (Bai, Xia); Zhao, J (Zhao, Juan)
+来源出版物: SIGNAL PROCESSING  卷: 122  页: 115-122  DOI: 10.1016/j.sigpro.2015.11.024  出版年: MAY 2016  
+Web of Science 核心合集中的 "被引频次": 5
+被引频次合计: 6
+入藏号: WOS:000370102800012
+地址: [Bu, Hongxia; Tao, Ran; Bai, Xia; Zhao, Juan] Beijing Inst Technol, Sch Informat & Elect, Beijing 100081, Peoples R China.
+[Bu, Hongxia] Hebei Normal Univ, Coll Phys Sci & Informat Engn, Shijiazhuang 050024, Peoples R China.
+[Tao, Ran; Bai, Xia; Zhao, Juan] Beijing Key Lab Fract Signals & Syst, Beijing 100081, Peoples R China.
+通讯作者地址: Tao, R (通讯作者),Beijing Inst Technol, Sch Informat & Elect, Beijing 100081, Peoples R China.
+Tao, R (通讯作者),Beijing Key Lab Fract Signals & Syst, Beijing 100081, Peoples R China.
+电子邮件地址: beckybu@hebtu.edu.cn; rantao@bit.edu.cn; bai@bit.edu.cn; juanzhao@bit.edu.cn
+ISSN: 0165-1684
+eISSN: 1879-2677
+第 7 条，共 11 条
+标题: Coherence-based analysis of modified orthogonal matching pursuit using sensing dictionary
+作者: Zhao, J (Zhao, Juan); Bai, X (Bai, Xia); Bi, SH (Bi, Shi-He); Tao, R (Tao, Ran)
+来源出版物: IET SIGNAL PROCESSING  卷: 9  期: 3  页: 218-225  DOI: 10.1049/iet-spr.2014.0164  出版年: MAY 2015  
+Web of Science 核心合集中的 "被引频次": 2
+被引频次合计: 3
+入藏号: WOS:000354041200004
+地址: [Zhao, Juan; Bai, Xia; Bi, Shi-He; Tao, Ran] Beijing Inst Technol, Sch Informat & Elect, Beijing 100081, Peoples R China.
+[Zhao, Juan; Bai, Xia; Bi, Shi-He; Tao, Ran] Beijing Key Lab Fract Signals & Syst, Beijing 100081, Peoples R China.
+通讯作者地址: Bai, X (通讯作者),Beijing Inst Technol, Sch Informat & Elect, Beijing 100081, Peoples R China.
+Bai, X (通讯作者),Beijing Key Lab Fract Signals & Syst, Beijing 100081, Peoples R China.
+电子邮件地址: bai@bit.edu.cn
+ISSN: 1751-9675
+eISSN: 1751-9683
+第 8 条，共 11 条
+标题: Adaptive Viterbi-Based Range-Instantaneous Doppler Algorithm for ISAR Imaging of Ship Target at Sea
+作者: Li, Y (Li, Yang); Liu, KS (Liu, Kuisheng); Tao, R (Tao, Ran); Bai, X (Bai, Xia)
+来源出版物: IEEE JOURNAL OF OCEANIC ENGINEERING  卷: 40  期: 2  页: 417-425  DOI: 10.1109/JOE.2014.2312237  出版年: APR 2015  
+Web of Science 核心合集中的 "被引频次": 2
+被引频次合计: 2
+入藏号: WOS:000352891100016
+地址: [Li, Yang] China Acad Elect & Informat Technol, Beijing 100041, Peoples R China.
+[Liu, Kuisheng] Beijing Urban Construct Grp Co Ltd, Dept Civil Engn & Gen Contracting, Beijing 100088, Peoples R China.
+[Liu, Kuisheng] Beijing Urban Construct Grp Co Ltd, Dept Water Engn, Beijing 100088, Peoples R China.
+[Tao, Ran; Bai, Xia] Beijing Inst Technol, Beijing 100081, Peoples R China.
+通讯作者地址: Li, Y (通讯作者),China Acad Elect & Informat Technol, Beijing 100041, Peoples R China.
+电子邮件地址: 110988068@qq.com; 1564219877@qq.com; 15652540242@163.com; seenightrain@163.com
+ISSN: 0364-9059
+eISSN: 1558-1691
+第 9 条，共 11 条
+标题: Parameter-searched OMP method for eliminating basis mismatch in space-time spectrum estimation
+作者: Bai, GT (Bai, Gatai); Tao, R (Tao, Ran); Zhao, J (Zhao, Juan); Bai, X (Bai, Xia)
+来源出版物: SIGNAL PROCESSING  卷: 138  页: 11-15  DOI: 10.1016/j.sigpro.2017.03.003  出版年: SEP 2017  
+Web of Science 核心合集中的 "被引频次": 1
+被引频次合计: 1
+入藏号: WOS:000401043400002
+地址: [Bai, Gatai; Tao, Ran] Beijing Inst Technol, Sch Math & Stat, Beijing 100081, Peoples R China.
+[Zhao, Juan; Bai, Xia] Beijing Inst Technol, Sch Informat & Elect, Beijing 100081, Peoples R China.
+通讯作者地址: Tao, R (通讯作者),Beijing Inst Technol, Sch Math & Stat, Beijing 100081, Peoples R China.
+电子邮件地址: rantao@bit.edu.cn
+ISSN: 0165-1684
+eISSN: 1879-2677
+第 10 条，共 11 条
+标题: Autofocusing of SAR images using STFRFT-based preprocessing
+作者: Bai, X (Bai, X.); Tao, R (Tao, R.); Liu, LJ (Liu, L. -J.); Zhao, J (Zhao, J.)
+来源出版物: ELECTRONICS LETTERS  卷: 48  期: 25  DOI: 10.1049/el.2012.3169  出版年: DEC 6 2012  
+Web of Science 核心合集中的 "被引频次": 1
+被引频次合计: 2
+入藏号: WOS:000314298900032
+地址: [Bai, X.; Tao, R.; Liu, L. -J.; Zhao, J.] Beijing Inst Technol, Sch Informat & Elect, Beijing 100081, Peoples R China.
+通讯作者地址: Bai, X (通讯作者),Beijing Inst Technol, Sch Informat & Elect, 5 S Zhongguancun St, Beijing 100081, Peoples R China.
+电子邮件地址: bai@bit.edu.cn
+ISSN: 0013-5194
+第 11 条，共 11 条
+标题: Fast FOCUSS method based on bi-conjugate gradient and its application to space-time clutter spectrum estimation
+作者: Bai, G (Bai, Gatai); Tao, R (Tao, Ran); Zhao, J (Zhao, Juan); Bai, X (Bai, Xia); Wang, Y (Wang, Yue)
+来源出版物: SCIENCE CHINA-INFORMATION SCIENCES  卷: 60  期: 8  文献号: 082302  DOI: 10.1007/s11432-015-1016-x  出版年: AUG 2017  
+Web of Science 核心合集中的 "被引频次": 0
+被引频次合计: 0
+入藏号: WOS:000396239500002
+地址: [Bai, Gatai; Tao, Ran; Wang, Yue] Beijing Inst Technol, Sch Math & Stat, Beijing 100081, Peoples R China.
+[Tao, Ran; Zhao, Juan; Bai, Xia; Wang, Yue] Beijing Inst Technol, Sch Informat & Elect, Beijing 100081, Peoples R China.
+[Bai, Gatai; Tao, Ran; Zhao, Juan; Bai, Xia; Wang, Yue] Beijing Key Lab Fract signal & Syst, Beijing 100081, Peoples R China.
+通讯作者地址: Tao, R (通讯作者),Beijing Inst Technol, Sch Math & Stat, Beijing 100081, Peoples R China.
+电子邮件地址: rantao@bit.edu.cn
+ISSN: 1674-733X
+eISSN: 1869-1919
